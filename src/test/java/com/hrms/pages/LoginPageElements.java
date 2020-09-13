@@ -22,7 +22,7 @@ public class LoginPageElements extends PageInitializer{
 	@FindBy(id = "divLogo")
 	public WebElement syntaxLogo;
 	
-	@FindBy(id = "spanMessage")
+	@FindBy(id = "spanMessage1")
 	public WebElement spanMessage;
 	
 	@FindBy(id = "logInPanelHeading")

@@ -12,7 +12,10 @@ import io.cucumber.junit.CucumberOptions;
 				 monochrome = true, // when set as true, will format the console outcome
 				 tags = "@smoke",
 				 strict = false, // when set as true, will fail the execution when undefined step is found
-				 plugin = {"pretty"} // will print the steps inside the console
+				 plugin = {"pretty", // will print the steps inside the console
+						 "html:target/cucumber-default-reports", // generates default html report 
+						 "rerun:target/FailedTests.txt", // generates a txt file only with failed tests
+						 "json:target/cucumber.json"} // generates json reports 
 					)
 public class TestRunner {
 
