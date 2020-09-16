@@ -45,5 +45,19 @@ public class AddEmployeeStepDefinitions extends CommonMethods {
 		String profileName = persDetails.profileName.getText();
 		Assert.assertEquals(fullName, profileName);
 	}
+	
+	@When("enter employee {string}, {string} and {string}")
+	public void enter_employee_and(String firstName, String middleName, String lastName) {
+		sendText(addEmp.firstNameField, firstName);
+		sendText(addEmp.middleName, middleName);
+		sendText(addEmp.lastNameField, lastName);
+	}
+
+	@Then("verify that {string}, {string} and {string} is successfully added")
+	public void verify_that_and_is_successfully_added(String firstName, String middleName, String lastName) {
+		String fullName = firstName + " " + middleName + " " + lastName;
+		String fullProfileName = persDetails.profileName.getText();
+		Assert.assertEquals(fullName, fullProfileName);
+	}
 
 }
