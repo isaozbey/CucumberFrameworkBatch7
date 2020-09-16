@@ -1,4 +1,6 @@
+@login
 Feature: Login Functionality 
+
 @regression
 Scenario: Login with valid credentials
 When login with valid credentials
