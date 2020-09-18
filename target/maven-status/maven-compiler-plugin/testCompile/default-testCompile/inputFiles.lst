@@ -1,0 +1,15 @@
+/Users/Syntax/eclipse-workspace/SyntaxBatchVII/CucumberFrameworkBatch7/src/test/java/com/hrms/utils/ConfigsReader.java
+/Users/Syntax/eclipse-workspace/SyntaxBatchVII/CucumberFrameworkBatch7/src/test/java/com/hrms/runners/TestRunner.java
+/Users/Syntax/eclipse-workspace/SyntaxBatchVII/CucumberFrameworkBatch7/src/test/java/com/hrms/pages/DashboardPageElements.java
+/Users/Syntax/eclipse-workspace/SyntaxBatchVII/CucumberFrameworkBatch7/src/test/java/com/hrms/stepDefinitions/DashboardStepDefinitions.java
+/Users/Syntax/eclipse-workspace/SyntaxBatchVII/CucumberFrameworkBatch7/src/test/java/com/hrms/pages/PersonalDetailsPageElements.java
+/Users/Syntax/eclipse-workspace/SyntaxBatchVII/CucumberFrameworkBatch7/src/test/java/com/hrms/utils/Constants.java
+/Users/Syntax/eclipse-workspace/SyntaxBatchVII/CucumberFrameworkBatch7/src/test/java/com/hrms/pages/AddEmployeePageElements.java
+/Users/Syntax/eclipse-workspace/SyntaxBatchVII/CucumberFrameworkBatch7/src/test/java/com/hrms/utils/ExcelUtility.java
+/Users/Syntax/eclipse-workspace/SyntaxBatchVII/CucumberFrameworkBatch7/src/test/java/com/hrms/stepDefinitions/Hooks.java
+/Users/Syntax/eclipse-workspace/SyntaxBatchVII/CucumberFrameworkBatch7/src/test/java/com/hrms/utils/CommonMethods.java
+/Users/Syntax/eclipse-workspace/SyntaxBatchVII/CucumberFrameworkBatch7/src/test/java/com/hrms/testbase/PageInitializer.java
+/Users/Syntax/eclipse-workspace/SyntaxBatchVII/CucumberFrameworkBatch7/src/test/java/com/hrms/pages/LoginPageElements.java
+/Users/Syntax/eclipse-workspace/SyntaxBatchVII/CucumberFrameworkBatch7/src/test/java/com/hrms/testbase/BaseClass.java
+/Users/Syntax/eclipse-workspace/SyntaxBatchVII/CucumberFrameworkBatch7/src/test/java/com/hrms/stepDefinitions/AddEmployeeStepDefinitions.java
+/Users/Syntax/eclipse-workspace/SyntaxBatchVII/CucumberFrameworkBatch7/src/test/java/com/hrms/stepDefinitions/LoginStepDefinitions.java
